@@ -1,0 +1,12 @@
+span.app-button-clear{   
+    display:none;
+    cursor:pointer;
+    position:relative;
+    left:-25px;
+	top:4px;
+}
+
+.search-query {
+  padding-left: 18px;
+  padding-right: 23px;
+}
