@@ -10,7 +10,7 @@ The reason for choosing Twitter Bootstrap for the UI is that you can have a nice
 
 ## Live demo
 
-Live demo is available here 
+Live demo is available here http://cosminnicula.github.com/ReclineTwitterBootstrapGridView
 
 ## Screenshot
 
